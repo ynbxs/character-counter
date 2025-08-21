@@ -8,7 +8,7 @@ Perfect for textareas and inputs that require a live count and character limit f
 
 ## 🔧 Features
 - Real-time character count
-- Character limit (140 characters)
+- Character limit
 - Red alert style when limit exceeded
 - Reusable Stimulus controller (utility component)
 - Bootstrap 5 styling
